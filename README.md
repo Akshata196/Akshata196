@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Akshata Jadhav
 
-<!--
-**Akshata196/Akshata196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech Computer Engineering at VJTI Mumbai 2025-2027
 
-Here are some ideas to get you started:
+🎓 B.E Electronics & Telecommunication. 2020-2024  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Aspiring Machine Learning / AI Engineer with strong foundations in  
+Mathematics, Statistics, and Data Science.
+
+---
+
+## 🔎 Career Focus
+- Machine Learning Engineer
+- AI Engineer
+- Data Scientist
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+- Python
+- C++
+- SQL
+
+### Libraries
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/akshata-jadhav-95a01a220/)
+- Email: jadhavakshata1305@gmail.com
+- Twitter: https://x.com/Akshata__196
