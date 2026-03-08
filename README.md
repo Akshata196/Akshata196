@@ -44,5 +44,6 @@ Mathematics, Statistics, and Data Science.
 
 ## 🌐 Connect With Me
 - LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/akshata-jadhav-95a01a220/)
-- Email: jadhavakshata1305@gmail.com
 - Twitter: https://x.com/Akshata__196
+- Hashnode Article: https://hashnode.com/@akshata196
+- Email: jadhavakshata1305@gmail.com
