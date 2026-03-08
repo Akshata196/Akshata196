@@ -33,6 +33,15 @@ Mathematics, Statistics, and Data Science.
 
 ---
 
+## 📝 Technical Blogs
+
+- 🔗 [Understanding RAG Architecture for PDF Question Answering](rag-architecture-and-working.hashnode.dev) | Hashnode
+- 🔗 [Building a RAG Application on the Swiggy Annual Report: Step-by-Step Workflow](rag-application.hashnode.dev) | Hashnode
+
+
+
+
+
 ## 🌐 Connect With Me
 - LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/akshata-jadhav-95a01a220/)
 - Email: jadhavakshata1305@gmail.com
